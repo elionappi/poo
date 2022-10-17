@@ -3,34 +3,34 @@ files:
 - name: src/Student.java
   visible: true
   placeholders:
-  - offset: 201
-    length: 0
+  - offset: 233
+    length: 10
     placeholder_text: /* TODO */
     initial_state:
       length: 10
       offset: 233
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: f5g1c10F8jbiybw+F9jZGOdNbYAKKED+1JlHRyBz3iIiGoGffBI/KSjHDNT7gNqfD4r38AiGGn1Y2tXQlM3OiFTEZOnIm+X3KMHoAGQF99Y1IwJ/VcpQHLxd1xo3nuygGNACthY9JbJktqCaNEoiJA==
-  - offset: 519
-    length: 29
+  - offset: 499
+    length: 10
     placeholder_text: /* TODO */
     initial_state:
       length: 10
       offset: 499
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: yQ1B91b/zqJE5m5MFuGrrvGR/LVn/BUGR1qfWqYZZC4=
-  - offset: 607
-    length: 185
+  - offset: 567
+    length: 10
     placeholder_text: /* TODO */
     initial_state:
       length: 10
       offset: 567
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: nKoNX2R3qthE8ZVWhWScKtoXZvc07Jo/zkmlhwOlXmOeEMr9tyArRbve7jPer8jG85mCmJN3kqD+8FCVPBwW4NlzeXMYY7XkUGDUq4kHjs0CzZ9cXcZ7xj0CQtR9SQKmwWHcpwRJYnumAQ3mhi/bWAgcWf3yyQHgWSLiC3bKyEUPm2zXGHOC8ED2olcB+HxJ9XV5RrecTQnKzQ/errDAZ5tzf45lNjSunBr4FFZh1Pd4/IC5JkRPUm37YgOuE/E9
   encrypted_text: NYgHoNruO3t7vIi6YFhoH5Y3smFePCPz49Z2FWeSLZJRZSV24DJfICT1lSmQ/3QCZlAFywnkw9fi5po90/grqw2c3czaBd+J+tyqlfhV3wWm8E5y4YEyGsorlh1ld4LgHnP5cmuOS/sD7x6wIF5Xwkv51Eunjp1fZ6XANE8hWjKYyYwfmkldhVlSF6DZmlgNChgdQqu25Yn1ZtLmGbmtz9pHkeJ2Knog7HyRc/zKIBv57arWkoLyXaDWUilYN9+Tc5LE6E1xj8oHmVgjchNfjjLdmTl9hdxyTTK5le92nlYNof+YBpe7w0LKYcawEWIs8SFOMu961rA7kjtCiu5Pfi9oUiwxIqQ+pmtARDNxDirjrAtCuE2/iDtLgjADqdklWEZk3+pkStvvbV7ndBOIVAYYRWTAuOs+c6lsAv/Dvzw4iq/gj5NE5g5COHiJjevZFE1WdMbylltiygkOmnrBlloLN3fTd+JeaaIiDQumOtCLxDk1XUQLmUR5fX2PA8hHK+aWNhV5NLhbaHTQEK79zTuy0WlfEsuuzlSULYGW1N19PeEW6mUb8K1tY4Jl8yJTvOH2ErvunBaIOnrxKZsiZflHZKR+Zf2jjn64y/hQ4G2VFM9rK2fRlJYw9x0Li8Q3vZ202kmNfXL3i1YYWGRrbddaQotqPEynyErGDc0d2kuQ3gtw6P2GQ9ZLMnWJ+O1h6vCYaaC2Sc7lU0AVcS/i5edo+NHe3DohaN2LbsaAUD2W/oqZ0lq+aKzpDWK+5Z2CDJxqgdgkDdDMpU9C0+et9w==
@@ -57,5 +57,5 @@ files:
 status: Solved
 feedback:
   message: Congratulations!
-  time: Fri, 30 Sep 2022 19:19:43 UTC
+  time: Fri, 14 Oct 2022 10:17:57 UTC
 record: -1

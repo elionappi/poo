@@ -4,53 +4,53 @@ files:
   visible: true
   placeholders:
   - offset: 317
-    length: 30
+    length: 10
     placeholder_text: /* TODO */
     initial_state:
       length: 10
       offset: 317
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: GW/zCbIOXFF8QCTytUeyzDQuwoQaDUHjUrCCQQqT7nXqoxF1ljPhXKBYcpssQe/H
-  - offset: 391
-    length: 87
+  - offset: 371
+    length: 10
     placeholder_text: /* TODO */
     initial_state:
       length: 10
       offset: 371
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: h16i70gpPdXXbCBvnydB54F1HKGrWfF0YMOKWa/kW7BeXIPXe8n3gMUOvAPuf0WAOuNCzF1egQIa6EH3Hnisre4WYHqsWcYyrrYQtprjIKcA3lJ4OskSYP2ZC+AKwIm6
-  - offset: 525
-    length: 17
+  - offset: 428
+    length: 10
     placeholder_text: /* TODO */
     initial_state:
       length: 10
       offset: 428
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: oMhzyp5YoWdEz/fOJuZcADz+S8e8aMyktYP5+/Ubfus=
-  - offset: 593
-    length: 20
+  - offset: 489
+    length: 10
     placeholder_text: /* TODO */
     initial_state:
       length: 10
       offset: 489
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: oV2XuCkB0gcLToTOiG9kcolO2FihUIZRILZvHVvB300=
-  - offset: 666
-    length: 22
+  - offset: 552
+    length: 10
     placeholder_text: /* TODO */
     initial_state:
       length: 10
       offset: 552
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: pCx8N/Hy8DSZGRTPI8NSKdKMTgCUOo32BwIBxLRIvYY=
   encrypted_text: O/YAE+mabWyJTYRNuw61L5z/pvkWpL06ebKicy1xln+zREG2xvUzsEdzHPAzyyhfBiWfDRfmtxrHpKVkdMpXGedNhy+oJ7vuarRLJqAUgTHaiigG2b6AfYG5Q7xn2md+l1eYXz4nA9HjlUTIwIMvON/8mYzRCTmgXwVoBZZsX6yS1EeZS/A7j5ji+o4+bDQl2VJjaxz0ASTc3qdAAhXc52ZumkYVPFsYOvcZZuWsm3KrhKsyX3dTiaLgqPoQkx5h/Kt/NqBnLxGhXhl3mpk4oRp/666LLj9H6wDiyDN13dMQdl3kVOuYfrPl8T8138f5JmB1UDK3E/HqzGnejhY7EA4edLvz1R+RuK1VPgNrbHxQXf1/iUcWFj0TnVKzmnLAV5ROPUxqD06f0NXYoySPcMmIban1yqZ38dRI/P4lYkFDrZkF7FL0HAG7enn4XbTSh/OS5/HpKR3ZsbG2rV7prFAkiVlyoWVB1MScxve2yrrtWTNyGWrzJZWaWauGAuazK2IhRuK8GVRNiEKoDCM2LrFiybzOtXd6EejW2FOBf06KDpOKLeEyBX0YHapyZM0p7MGBBOhM7evBhIGZWpcC8vkKinDDTTBg5pY5GfEg9QRbcc/Hw8GiwMGyB2X8tyOtV4p/C4GJHbXp1T7F0IbL+bVKpGsMN/A8cn45u28gf59UjM6+PovTh0Sd8FKbZR8VQQhbHQJsjm/rLgyq6makJwXY9gk/Qwe7CRMHnAIw5Orp/i77djxgj91Ym5Pfatsi
@@ -73,5 +73,5 @@ files:
 status: Solved
 feedback:
   message: Congratulations!
-  time: Fri, 30 Sep 2022 10:56:10 UTC
+  time: Fri, 14 Oct 2022 10:17:53 UTC
 record: -1
