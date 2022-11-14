@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
         <option name="delegatedBuild" value="false" />
-        <option name="testRunner" value="GRADLE" />
         <option name="distributionType" value="WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="modules">
@@ -34,6 +34,25 @@
             <option value="$PROJECT_DIR$/Lab_03/PhoneCompany" />
             <option value="$PROJECT_DIR$/Lab_03/Purse" />
             <option value="$PROJECT_DIR$/Lab_03/Tic-tac-toe" />
+            <option value="$PROJECT_DIR$/Lab_04/Railways" />
+            <option value="$PROJECT_DIR$/Lab_04/SMS" />
+            <option value="$PROJECT_DIR$/Lab_05/Country" />
+            <option value="$PROJECT_DIR$/Lab_05/Quiz" />
+            <option value="$PROJECT_DIR$/Lab_05/Quiz2" />
+            <option value="$PROJECT_DIR$/Lab_05/SMS2" />
+            <option value="$PROJECT_DIR$/Lab_05/Student" />
+            <option value="$PROJECT_DIR$/Lab_06/Bank2" />
+            <option value="$PROJECT_DIR$/Lab_06/Bookshop" />
+            <option value="$PROJECT_DIR$/Lab_06/Company" />
+            <option value="$PROJECT_DIR$/Lab_06/MedicalTests" />
+            <option value="$PROJECT_DIR$/Lab_06/Quiz3" />
+            <option value="$PROJECT_DIR$/Lab_06/Railways2" />
+            <option value="$PROJECT_DIR$/Lab_06/School" />
+            <option value="$PROJECT_DIR$/Lab_07/Supermarket" />
+            <option value="$PROJECT_DIR$/Lab_08/Bank3" />
+            <option value="$PROJECT_DIR$/Lab_08/FinancialHistory" />
+            <option value="$PROJECT_DIR$/Lab_08/School2" />
+            <option value="$PROJECT_DIR$/Lab_08/TryAgain" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>

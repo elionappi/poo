@@ -1,5 +1,5 @@
 type: marketplace
-title: Laboratorio di Object Oriented Programming in Java
+title: Laboratorio di Object Oriented Programming in Java (2)
 language: Italian
 summary: |-
   This is a collection of lab sessions for an Object Oriented Programming course in Italian.
@@ -17,6 +17,9 @@ content:
 - Lab_03
 - Lab_04
 - Lab_05
+- Lab_06
+- Lab_07
+- Lab_08
 mode: Study
 vendor:
   name: Dario Di Nucci

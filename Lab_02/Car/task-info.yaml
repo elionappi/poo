@@ -4,7 +4,7 @@ files:
   visible: true
   placeholders:
   - offset: 90
-    length: 10
+    length: 186
     placeholder_text: /* TODO */
     initial_state:
       length: 10
@@ -13,7 +13,7 @@ files:
     selected: false
     status: Solved
     encrypted_possible_answer: QKNk7V7gs1mLUn8VqqV1L2qDvioCOoU3HCwTxxqsngA752iayu5d9KYSWU6aiExuQ9EVHoUCi++nDpLAu12bJD0j8LAzCJdG/gc350fZ7jfB3TMN/hyXTX1J1wKzrSbzfDbfgo9JtJ1u83MGiTYJlKLGRUrhyDlBEE7R/B8nCQQ=
-  - offset: 139
+  - offset: 315
     length: 10
     placeholder_text: /* TODO */
     initial_state:
@@ -23,7 +23,7 @@ files:
     selected: false
     status: Solved
     encrypted_possible_answer: 3wfLGrQDKG4msmy8JWPERw==
-  - offset: 202
+  - offset: 378
     length: 10
     placeholder_text: /* TODO */
     initial_state:
@@ -33,7 +33,7 @@ files:
     selected: false
     status: Solved
     encrypted_possible_answer: jxd2KcXWucZThVll5JSNOFSHu92kVljNzpcucqP5zdQ=
-  - offset: 263
+  - offset: 439
     length: 10
     placeholder_text: /* TODO */
     initial_state:
@@ -63,5 +63,5 @@ files:
 status: Solved
 feedback:
   message: Congratulations!
-  time: Fri, 14 Oct 2022 10:18:11 UTC
+  time: Mon, 17 Oct 2022 09:52:49 UTC
 record: -1
